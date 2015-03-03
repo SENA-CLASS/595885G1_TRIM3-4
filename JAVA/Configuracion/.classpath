@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Ejemplo1/src"/>
+	<classpathentry kind="src" path="Ejemplo10/src"/>
+	<classpathentry kind="src" path="Ejemplo2/src/main/java"/>
+	<classpathentry kind="src" path="Ejemplo3/src"/>
+	<classpathentry kind="lib" path="Ejemplo3/dist/Ejemplo3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Ejemplo3/build/classes"/>
+</classpath>
